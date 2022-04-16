@@ -1,6 +1,6 @@
-### Formularios de cadastro, login e novo usuário em HTML
+### Formulários de cadastro, login e novo usuário em HTML
 
 - [Formulário de cadastro](desafio02-html/paginas/formCadastro.html)
 - [Formulário de login](desafio02-html/paginas/formLogin.html)
-- [Formulário de cadastro](desafio02-html/paginas/formNovoUsuario.html)
+- [Formulário de novo usuário](desafio02-html/paginas/formNovoUsuario.html)
  
